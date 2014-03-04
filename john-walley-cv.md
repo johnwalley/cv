@@ -123,4 +123,4 @@ References
 
 Available on request
 
-The canonical up-to-date version of this document can be found at www.walley.org.uk/john_walley_cv.pdf
+The canonical up-to-date version of this document can always be found at www.walley.org.uk/john-walley-cv.pdf
