@@ -36,7 +36,10 @@ Proven ability to adapt presentations to the technical level of the audience and
 Employment
 ----------
 
-### Apr 2012 - Present
+### June 2014 - Present
+#### Software Engineer, Red Gate
+
+### Apr 2012 - May 2014
 #### Developer, SunGard
 
 Contributing to the scalable and extensible framework which underlies the Adaptiv Analytics high-performance risk analytics service. Projects have included:
