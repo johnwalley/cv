@@ -10,10 +10,9 @@ Install [pandoc](http://johnmacfarlane.net/pandoc/).
 
     pandoc -s john-walley-cv.md -o john-walley-cv.docx
 
-
 ### PDF
 
-Unfortunately pandoc requires an install of LateX to generate pdf documents. I say unfortunately only because I have never seen a small LateX install.
+Unfortunately pandoc requires an install of LaTeX to generate pdf documents. I say unfortunately only because I have never seen a small LaTeX install.
 
     pandoc -s john-walley-cv.md -o john-walley-cv.pdf
     
