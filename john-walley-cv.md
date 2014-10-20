@@ -39,6 +39,8 @@ Employment
 ### June 2014 - Present
 #### Software Engineer, Red Gate
 
+Solving production database deployments for users of the most popular release management tools.
+
 ### Apr 2012 - May 2014
 #### Developer, SunGard
 
