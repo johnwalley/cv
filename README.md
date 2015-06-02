@@ -18,4 +18,4 @@ Unfortunately pandoc requires an install of LaTeX to generate pdf documents. I s
     
 ## Colourful Version
 
-Requires [Adobe InDesign](http://www.adobe.com/uk/products/indesign.html) to edit the ``.indd`` file. In addition there is currently no automated method for importing the text in the markdown version.
+Requires [Adobe InDesign](http://www.adobe.com/uk/products/indesign.html) to edit the ``.indd`` file. In addition there is currently no automated method for importing the text from the markdown version.
